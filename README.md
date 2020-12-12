@@ -1,7 +1,7 @@
 ## What is this?
 
-This repository holds Helm charts.  This page is a placeholder.  That's about it.
+This repository holds Helm charts. 
 
 ## What's that?
 
-Don't worry about it.
+If you don't know, you probably don't need to be here.
